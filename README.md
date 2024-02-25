@@ -10,7 +10,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ### Structural Encoding / Postional Encoding for Graph Transformers
 #### Spectral Positional Encoding
-1. Rethinking Graph Transformers with Spectral Attention. NeurIPS 2021. [[paper]](https://arxiv.org/abs/2106.03893)
+1. Rethinking Graph Transformers with Spectral Attention. NeurIPS 2021. [[paper]](https://arxiv.org/abs/2106.03893) &#x221A;
 1. A Generalization of Transformer Networks to Graphs. AAAI workshop 2021. [[paper]](https://arxiv.org/pdf/2012.09699)
 1. Transformers Meet Directed Graphs. ICML 2023. [[paper]](https://dl.acm.org/doi/10.5555/3618408.3618855)
 
