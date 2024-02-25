@@ -20,9 +20,9 @@ We will try to make this list updated. If you found any error or any missed pape
 1. GRPE: Relative Positional Encoding for Graph Transformer. ICLR 2022 Workshop MLDD [[paper]](https://openreview.net/forum?id=GNfAFN_p1d) &#x221A;
 1. Global Self-Attention as a Replacement for Graph Convolution. KDD 2022. [[paper]](https://arxiv.org/abs/2108.03348) EGT &#x221A;
 1. Pure Transformers are Powerful Graph Learners. NeurIPS 2022. [[paper]](https://arxiv.org/abs/2207.02505) TokenGT &#x221A;
-1. Are More Layers Beneficial to Graph Transformers? ICLR 2023. [[paper]](https://openreview.net/forum?id=uagC-X9XMi8) DeepGraph
+1. Are More Layers Beneficial to Graph Transformers? ICLR 2023. [[paper]](https://openreview.net/forum?id=uagC-X9XMi8) DeepGraph &#x221A;
 1. Graph Inductive Biases in Transformers without Message Passing. ICML 2023. [[paper]](https://dl.acm.org/doi/10.5555/3618408.3619379) GRIT  &#x221A;
-1. Rethinking Structural Encodings: Adaptive Graph Transformer for Node Classification Task. WWW 2023. [[paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583464)
+1. Rethinking Structural Encodings: Adaptive Graph Transformer for Node Classification Task. WWW 2023. [[paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583464) &#x221A;
 1. HINormer: Representation Learning On Heterogeneous Information Networks with Graph Transformer. WWW 2023. [[paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583493)
 1. Graph Propagation Transformer for Graph Representation Learning. IJCAI 2023. [[paper]](https://www.ijcai.org/proceedings/2023/0396.pdf)
 1. LGI-GT: Graph Transformers with Local and Global Operators Interleaving. IJCAI 2023. [[paper]](https://www.ijcai.org/proceedings/2023/0501.pdf)
